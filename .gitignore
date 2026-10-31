@@ -1,0 +1,10 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+*.pyc
+# Generated packages and caches
+*.conda
+*.mojoc
+*.mojopkg
+__pycache__/*
+__mojocache__/
